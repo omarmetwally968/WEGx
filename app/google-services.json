@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "131319398461",
+    "firebase_url": "https://gradproj19x.firebaseio.com",
+    "project_id": "gradproj19x",
+    "storage_bucket": "gradproj19x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131319398461:android:dd9aa67f298a0d48",
+        "android_client_info": {
+          "package_name": "com.example.techvalley.wegx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131319398461-5svm655r2g6ommi6pp022tkl8s66q7ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBxs2xbQYAG29-0an9xYcYBEvym9ih9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

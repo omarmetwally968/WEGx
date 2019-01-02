@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WEGx</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="wegx">WEGx</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_weg">Welcome to WEG</string>
+    <string name="tab_4">TAB 4</string>
+    <string name="tab_focken_4">Tab focken 4</string>
+    <string name="tab_focken_3">Tab focken 3</string>
+    <string name="tab_focken_2">Tab focken 2</string>
+    <string name="tab_focken_1">Tab focken 1</string>
+    <string name="c">C</string>
+
+
+
+    <string name="welcome_mr">Welcome Mr.</string>
+    <string name="welcome_to_wegx">Welcome to WEGx</string>
+    <string name="gas_switch">Gas Switch</string>
+    <string name="your_gas_status">your gas status :</string>
+    <string name="your_water_status">your water status :</string>
+    <string name="water_switch">Water Switch</string>
+
+</resources>
